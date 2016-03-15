@@ -1,0 +1,9 @@
+{
+    "name": "oauth2-phabricator",
+    "description": "Allow users to login with Phabricator",
+    "license": "MIT",
+    "version": "0.0.1",
+    "require": {
+        "league/oauth2-client": "^1.3"
+    }
+}
