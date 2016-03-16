@@ -9,8 +9,6 @@
  * @copyright Copyright (c) Ingo Malchow <ingomalchow@gmail.com>
  * @license http://opensource.org/licenses/MIT MIT
  */
- 
-namespace MediaWiki\Extensions\PhabricatorLogin;
 
 require __DIR__ . '/vendor/autoload.php';
 require __DIR__ . '/PhabricatorResourceOwner.php';
